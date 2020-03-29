@@ -616,7 +616,7 @@ Key | Description | Default
   `google_cloud_project_id` | ID of the Google Cloud project to use for authentication | 
   `s3_region` | Name of the S3 region | 
   `s3_access_key` | S3 access key | 
-  `s3_secret_access_key` | S3 secret secret access key | 
+  `s3_secret_access_key` | S3 secret access key | 
   `s3_bucket` | Name of the S3 bucket | 
   `keychain_name` | Keychain the items should be imported to | `login.keychain`
   `keychain_password` | This might be required the first time you access certificates on a new mac. For the login/default keychain this is your account password | 
